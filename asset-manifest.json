@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/panDash/static/css/main.2626af6f.chunk.css",
+    "main.js": "/panDash/static/js/main.a6163af8.chunk.js",
+    "main.js.map": "/panDash/static/js/main.a6163af8.chunk.js.map",
+    "runtime-main.js": "/panDash/static/js/runtime-main.1f482918.js",
+    "runtime-main.js.map": "/panDash/static/js/runtime-main.1f482918.js.map",
+    "static/css/2.b234b7d0.chunk.css": "/panDash/static/css/2.b234b7d0.chunk.css",
+    "static/js/2.93a1b345.chunk.js": "/panDash/static/js/2.93a1b345.chunk.js",
+    "static/js/2.93a1b345.chunk.js.map": "/panDash/static/js/2.93a1b345.chunk.js.map",
+    "index.html": "/panDash/index.html",
+    "precache-manifest.54e1df8ed17f2b4abd886c75b69c4ee5.js": "/panDash/precache-manifest.54e1df8ed17f2b4abd886c75b69c4ee5.js",
+    "service-worker.js": "/panDash/service-worker.js",
+    "static/css/2.b234b7d0.chunk.css.map": "/panDash/static/css/2.b234b7d0.chunk.css.map",
+    "static/css/main.2626af6f.chunk.css.map": "/panDash/static/css/main.2626af6f.chunk.css.map",
+    "static/js/2.93a1b345.chunk.js.LICENSE.txt": "/panDash/static/js/2.93a1b345.chunk.js.LICENSE.txt",
+    "static/media/PANTO.png": "/panDash/static/media/PANTO.2d18a2c8.png",
+    "static/media/bussiness-man.png": "/panDash/static/media/bussiness-man.bc841a07.png",
+    "static/media/countdown.png": "/panDash/static/media/countdown.325c2b6e.png",
+    "static/media/funnel.png": "/panDash/static/media/funnel.1785fa79.png",
+    "static/media/payment-method.png": "/panDash/static/media/payment-method.e75ec37b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f482918.js",
+    "static/css/2.b234b7d0.chunk.css",
+    "static/js/2.93a1b345.chunk.js",
+    "static/css/main.2626af6f.chunk.css",
+    "static/js/main.a6163af8.chunk.js"
+  ]
+}
