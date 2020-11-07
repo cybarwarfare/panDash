@@ -1,0 +1,34 @@
+self.__precacheManifest = (self.__precacheManifest || []).concat([
+  {
+    "revision": "1c61903fa13d55a6d0f6bb4804ec3e6e",
+    "url": "/panDash/index.html"
+  },
+  {
+    "revision": "5577827bdb7ba6006400",
+    "url": "/panDash/static/css/2.b234b7d0.chunk.css"
+  },
+  {
+    "revision": "dac29ef03fe19361fe12",
+    "url": "/panDash/static/css/main.2626af6f.chunk.css"
+  },
+  {
+    "revision": "5577827bdb7ba6006400",
+    "url": "/panDash/static/js/2.72c796f5.chunk.js"
+  },
+  {
+    "revision": "4da68047bfb92de2093d237ae27e73a9",
+    "url": "/panDash/static/js/2.72c796f5.chunk.js.LICENSE.txt"
+  },
+  {
+    "revision": "dac29ef03fe19361fe12",
+    "url": "/panDash/static/js/main.cba1cbc3.chunk.js"
+  },
+  {
+    "revision": "c9986d656268ccbe07e9",
+    "url": "/panDash/static/js/runtime-main.1f482918.js"
+  },
+  {
+    "revision": "2d18a2c866a05604dd545a8959f467c4",
+    "url": "/panDash/static/media/PANTO.2d18a2c8.png"
+  }
+]);
