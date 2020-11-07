@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/panDash/static/css/main.2626af6f.chunk.css",
-    "main.js": "/panDash/static/js/main.cba1cbc3.chunk.js",
-    "main.js.map": "/panDash/static/js/main.cba1cbc3.chunk.js.map",
+    "main.js": "/panDash/static/js/main.85f4fcff.chunk.js",
+    "main.js.map": "/panDash/static/js/main.85f4fcff.chunk.js.map",
     "runtime-main.js": "/panDash/static/js/runtime-main.1f482918.js",
     "runtime-main.js.map": "/panDash/static/js/runtime-main.1f482918.js.map",
     "static/css/2.b234b7d0.chunk.css": "/panDash/static/css/2.b234b7d0.chunk.css",
     "static/js/2.72c796f5.chunk.js": "/panDash/static/js/2.72c796f5.chunk.js",
     "static/js/2.72c796f5.chunk.js.map": "/panDash/static/js/2.72c796f5.chunk.js.map",
     "index.html": "/panDash/index.html",
-    "precache-manifest.bf9360a96be1db8f43baf1686fae99d4.js": "/panDash/precache-manifest.bf9360a96be1db8f43baf1686fae99d4.js",
+    "precache-manifest.5973e712a5b65a9560340735e015d3ba.js": "/panDash/precache-manifest.5973e712a5b65a9560340735e015d3ba.js",
     "service-worker.js": "/panDash/service-worker.js",
     "static/css/2.b234b7d0.chunk.css.map": "/panDash/static/css/2.b234b7d0.chunk.css.map",
     "static/css/main.2626af6f.chunk.css.map": "/panDash/static/css/main.2626af6f.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.b234b7d0.chunk.css",
     "static/js/2.72c796f5.chunk.js",
     "static/css/main.2626af6f.chunk.css",
-    "static/js/main.cba1cbc3.chunk.js"
+    "static/js/main.85f4fcff.chunk.js"
   ]
 }
